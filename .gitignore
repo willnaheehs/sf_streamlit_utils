@@ -1,0 +1,15 @@
+# venvs
+.venv/
+
+# Python build junk
+dist/
+build/
+*.egg-info/
+__pycache__/
+*.tar.gz
+
+# macOS
+.DS_Store
+
+# Streamlit local secrets
+.streamlit/secrets.toml
