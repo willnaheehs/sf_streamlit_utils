@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "sf-streamlit-utils"
-version = "0.1.2"
+version = "0.1.4"
 description = "Streamlit-focused utilities for Snowflake: standardized connections, resilient caching, helpers, and optional schema browser."
 readme = "README.md"
 requires-python = ">=3.9"
