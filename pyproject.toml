@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "flakestream"
-version = "0.1.7" 
+version = "0.1.8" 
 description = "Streamlit-focused utilities for Snowflake: standardized connections, resilient caching, helpers, and optional schema browser."
 readme = "README.md"
 requires-python = ">=3.9"
