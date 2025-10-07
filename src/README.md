@@ -24,7 +24,7 @@ Snowflake’s own guidance for using Streamlit recommends encapsulating connecti
 Install from PyPI:
 
 ```bash
-pip install sf-streamlit-utils
+pip install flakestream
 ```
 
 Alternatively, install the development version from source:
